@@ -1,6 +1,6 @@
 # Site settings
-title: site
-url: https://bokesh.github.io/site/
+title: NURECRAFT
+url: https://nurecraft.ml
 description: Minecraft сервер ХНУРЕ
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -9,7 +9,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: site
+footer: NURECRAFT
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -24,16 +24,16 @@ social:
     url: https://t.me/nurecraft_bot
   - title: Пропозиції/побажання
     icon: bug
-    url: https://bokesh.github.io/site/vanilla-server/issues
+    url: https://github.com/nurecraft/vanilla-server/issues
   # - title: Мапа серверу
   #   icon: map
-  #    url: https://bokesh.github.io/site/
+  #    url: https://map.nurecraft.ml/
   - title: Discord серверу
     icon: bomb
     url: https://discord.gg/xXKhnyR
   - title: Вікі
     icon: wikipedia-w
-    url: https://bokesh.github.io/site/vanilla-server/wiki
+    url: https://github.com/nurecraft/vanilla-server/wiki
 
 
 # Build settings
